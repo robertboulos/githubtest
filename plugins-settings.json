@@ -1,0 +1,43 @@
+{
+    "cd33cf33-e29f-4e8c-ac26-b997fe507ce7": {
+        "id": "67666a26-d7e4-4d4c-9fb4-160f817242c9",
+        "name": "Xano",
+        "designId": "08245231-60e4-4ae3-93a7-fa98741cc0c7",
+        "pluginId": "cd33cf33-e29f-4e8c-ac26-b997fe507ce7",
+        "publicData": {
+            "domain": "xhyn-y9xp-avrn.n7c.xano.io",
+            "xBranchProd": "v1",
+            "xBranchEditor": "v1",
+            "xBranchStaging": "v1",
+            "xDataSourceProd": "live",
+            "xDataSourceEditor": "live",
+            "xDataSourceStaging": "live"
+        }
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "f3beebde-34e5-4984-9189-15c403b464ed",
+        "name": "Date",
+        "designId": "08245231-60e4-4ae3-93a7-fa98741cc0c7",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "f5856798-485d-47be-b433-d43d771c64e1": {
+        "id": "86df247d-4616-4398-a3e5-637bbab0a7b3",
+        "name": "Xano Auth",
+        "designId": "08245231-60e4-4ae3-93a7-fa98741cc0c7",
+        "pluginId": "f5856798-485d-47be-b433-d43d771c64e1",
+        "publicData": {
+            "domain": "xhyn-y9xp-avrn.n7c.xano.io",
+            "xBranchProd": "v1",
+            "getMeEndpoint": "https://xhyn-y9xp-avrn.n7c.xano.io/api:Y296zGem/auth/me",
+            "loginEndpoint": "https://xhyn-y9xp-avrn.n7c.xano.io/api:Y296zGem/auth/login",
+            "xBranchEditor": "v1",
+            "signupEndpoint": "https://xhyn-y9xp-avrn.n7c.xano.io/api:Y296zGem/auth/signup",
+            "xBranchStaging": "v1",
+            "socialProviders": {},
+            "xDataSourceProd": "live",
+            "xDataSourceEditor": "live",
+            "xDataSourceStaging": "live"
+        }
+    }
+}

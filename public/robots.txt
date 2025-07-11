@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap: https://08245231-60e4-4ae3-93a7-fa98741cc0c7.weweb-preview.io/sitemap.xml
